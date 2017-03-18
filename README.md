@@ -35,7 +35,7 @@ tag css:
 <li>footer</li>
 <li>class = post, post h1, nav, nav a, nav li</li>
 <li>id = logo, article-list</li>
-
+<br>
 <p>
 About Me:
 <br> 
