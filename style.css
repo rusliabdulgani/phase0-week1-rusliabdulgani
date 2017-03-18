@@ -1,0 +1,77 @@
+body{
+ background-image: url("sample-pattern.png");
+}
+header {
+  background-color: white;
+  border-bottom: 1px solid #466995;
+  overflow-y: auto;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 1000;
+}
+
+.post{
+  margin: 120px auto;
+  position: relative;
+  top: 10px;
+}
+
+.post h1{
+  font-size: 30px;
+  font-family: Georgia;
+  text-align: center;
+}
+
+#logo{
+  float: left;
+  padding: 5px;
+}
+
+
+.nav {
+       text-align: right;
+}
+
+.nav a {
+  text-decoration: none;
+
+}
+
+.nav li{
+  display: inline;
+  padding: 10px;
+  font-family: Georgia;
+}
+
+#article-list{
+  width: 70%;
+  padding: 0px;
+  overflow: visible;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+article{
+  border-bottom: solid 0.2px;
+  padding: 1px 15px;
+}
+
+article a{
+  text-decoration: none;
+}
+
+article h3{
+  color: blue;
+  font-family: Georgia;
+}
+
+footer{
+  background-color: black;
+  padding: 15px;
+  color: white;
+  text-align: center;
+;
