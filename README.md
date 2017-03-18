@@ -1,20 +1,20 @@
 Website ini merupakan web tugas html dan css layouting sederhana.
 tag html:
-<html>
-<head>
-<link>
-<body>
-<header>
-<image>
-<nav>
-<ul>
-<a>
-<section>
-<h1>
-<div>
-<article>
-<p>
-<footer>
+*html
+*head
+*link
+*body
+*header
+*image
+*nav
+*ul
+*a
+*section
+*h1
+*div
+*article
+*p
+*footer
 
 tag css:
 body
