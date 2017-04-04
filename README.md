@@ -7,26 +7,25 @@ tag html:
 </head>
 <body>
 
-*html
-*head
-*link
-*body
-*header
-*image
-*nav
-*ul
-*a
-*section
-*h1
-*div
-*article
-*p
-*footer
+* html
+* head
+* link
+* body
+* header
+* image
+* nav
+* ul
+* a
+* section
+* h1
+* div
+* article
+* p
+* footer
 
 ```tag css:
 ```
-<ul>
-<li>body</li>
+* body
 <li>header</li>
 <li>article</li>
 <li>article a</li>
@@ -41,7 +40,7 @@ About Me:
 Nama : Rusli Abdul Gani
 <br>
 Panggilan: Gani
-<b
+<br>
 Profesi Saat ini : Network Engineer (Service Provider)
 <br>
 Profesi selanjutnya : Web Dev Professional
