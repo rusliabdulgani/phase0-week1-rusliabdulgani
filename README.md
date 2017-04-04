@@ -1,11 +1,7 @@
 Website ini merupakan web tugas html dan css layouting sederhana.
 tag html:
-<!DOCTYPE html>
-<html>
-<head>
-<title>README.md</title>
-</head>
-<body>
+
+### Readme.md
 
 * html
 * head
@@ -26,17 +22,17 @@ tag html:
 ```tag css:
 ```
 * body
-<li>header</li>
-<li>article</li>
-<li>article a</li>
-<li>article h3</li>
-<li>footer</li>
-<li>class = post, post h1, nav, nav a, nav li</li>
-<li>id = logo, article-list</li>
-<br>
-<p>
-About Me:
-<br> 
+* header
+* article
+* article a
+* article h3
+* footer
+* class = post, post h1, nav, nav a, nav li
+* id = logo, article-list
+
+
+**About Me:**
+
 Nama : Rusli Abdul Gani
 <br>
 Panggilan: Gani
