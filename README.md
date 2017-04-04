@@ -3,32 +3,34 @@ tag html:
 
 ### Readme.md
 
-* html
-* head
-* link
-* body
-* header
-* image
-* nav
-* ul
-* a
-* section
-* h1
-* div
-* article
-* p
-* footer
+* tag html
+	* html
+	* head
+	* link
+	* body
+	* header
+	* image
+	* nav
+	* ul
+	* a
+	* section
+	* h1
+	* div
+	* article
+	* p
+	* footer
 
 ```tag css:
 ```
-* body
-* header
-* article
-* article a
-* article h3
-* footer
-* class = post, post h1, nav, nav a, nav li
-* id = logo, article-list
+* tag css:
+	* body
+	* header
+	* article
+	* article a
+	* article h3
+	* footer
+	* class = post, post h1, nav, nav a, nav li
+	* id = logo, article-list
 
 
 **About Me:**
