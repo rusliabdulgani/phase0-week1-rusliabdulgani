@@ -6,26 +6,25 @@ tag html:
 <title>README.md</title>
 </head>
 <body>
-<ul>
-<li>html</li>
-<li>head</li>
-<li>link</li>
-<li>body</li>
-<li>header</li>
-<li>image</li>
-<li>nav</li>
-<li>ul</li>
-<li>a</li>
-<li>section</li>
-<li>h1</li>
-<li>div</li>
-<li>article</li>
-<li>p</li>
-<li>footer</li>
-</ul>
-<p>
-tag css:
-</p>
+
+*html
+*head
+*link
+*body
+*header
+*image
+*nav
+*ul
+*a
+*section
+*h1
+*div
+*article
+*p
+*footer
+
+```tag css:
+```
 <ul>
 <li>body</li>
 <li>header</li>
@@ -42,7 +41,7 @@ About Me:
 Nama : Rusli Abdul Gani
 <br>
 Panggilan: Gani
-<br>
+<b
 Profesi Saat ini : Network Engineer (Service Provider)
 <br>
 Profesi selanjutnya : Web Dev Professional
